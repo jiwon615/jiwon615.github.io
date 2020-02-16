@@ -1,5 +1,3 @@
-
-
 # 'I LOVE PET' 프로젝트
 
 ##### 프로젝트 바로가기 : <http://15.164.246.27:8080/>
@@ -17,7 +15,8 @@
 ```
 ---
 
-#### 1. 프로젝트 요약
+#### ==1. 프로젝트 요약==
+
 ```
 • 프로젝트명: ILOVEPET 반려동물 쇼핑몰 구축 
 • 개발기간 : 2019.11.11 ~ 2020.01.01
@@ -27,30 +26,30 @@
 
 ```
 
-#### 2. 개발환경
+#### ==2. 개발환경==
 ```
-* 사용(개발) 언어 : JAVA8
-* O/S
-	• 개발환경 : Windows10
-	• 운영환경 : Linux, ubuntu 18.04
-* 웹서버 : Apache Tomcat 8.5
-* 서버배포 : AWS EC2
-* 사용(개발) 툴 : Spring STS, HeidiSQL, Visual Studio Code
-* 프레임워크 : Spring Framework, MyBatis
-* DBMS : MariaDB
-* 웹 표준 기술  
-	* JSP
-	* HTML5 
-	* CSS3 
-	* Bootstrap4
-	* JavaScript 
-	* jQuery 
-	* AJAX
-	* EL & JSTL
-* 참고: Udemy의 Spring Framework 제대로 활용하기 by ITGO
+• 사용(개발) 언어 : JAVA8
+• O/S
+	- 개발환경 : Windows10
+	- 운영환경 : Linux, ubuntu 18.04
+• 웹서버 : Apache Tomcat 8.5
+• 서버배포 : AWS EC2
+• 사용(개발) 툴 : Spring STS, HeidiSQL, Visual Studio Code
+• 프레임워크 : Spring Framework, MyBatis
+• DBMS : MariaDB
+• 웹 표준 기술  
+	- JSP
+	- HTML5 
+	- CSS3 
+	- Bootstrap4
+	- JavaScript 
+	- jQuery 
+	- AJAX
+	- EL & JSTL
+• 참고: Udemy의 Spring Framework 제대로 활용하기 by ITGO
 ```
 
-#### 3. 서비스 내용
+#### ==3. 서비스 내용==
 ```
 1. 로그인 및 회원가입
 	• 유효성 검사
@@ -85,7 +84,7 @@
 ```
 
 
-#### 4. 프로젝트 후기
+#### ==4. 프로젝트 후기==
 
 **부족했던 점**
 ```
@@ -100,8 +99,8 @@
 **배운 점**
 ```
 • 프로젝트 완성 경험
-	•혼자 많은 고민, 검색, 공부를 통해 단지 기술 습득 뿐 아니라 문제를 해결하는 방법, 접근법에 대한 내성 & 성숙도 증가
-	• 웹개발에 대한 전반적인 흐름과 동작원리에 대한 이해를 하게 됨
+	-혼자 많은 고민, 검색, 공부를 통해 단지 기술 습득 뿐 아니라 문제를 해결하는 방법, 접근법에 대한 내성 & 성숙도 증가
+	- 웹개발에 대한 전반적인 흐름과 동작원리에 대한 이해를 하게 됨
 • AWS EC2를 통한 서버 배포
 • Spring Framework 사용법
 ```
