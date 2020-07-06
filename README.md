@@ -1,6 +1,8 @@
 # 'I LOVE PET' 프로젝트
 
 ##### 프로젝트 바로가기 : <http://15.164.246.27:8080/>
+<img src="https://user-images.githubusercontent.com/44539246/74604289-bd3d1180-50ff-11ea-9268-35be9285f15b.jpg" width="510px" height="250px;" />
+
 
 ##### 프로젝트에 대한 상세 설명 <https://jiwon615.github.io/>
 
